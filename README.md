@@ -1,5 +1,6 @@
 # Soda-lakes-and-Lesser-Flamingos
 Corresponding author: Aidan Byrne - aidan.byrne@kcl.ac.uk
+
 Date last modified: 03/11/2023
 
 ## Data availability 
@@ -12,9 +13,15 @@ Data availability is described in the STAR methods section.
 
 ## Google Earth Engine scripts for environmental data collection
 Chlorophyll-a concentrations, suitable and high-quality habitat areas - https://code.earthengine.google.com/27b359afa20692a32636beec513b3c16 
+
 Cyanobacterial biomass and microphytobenthos classification - https://code.earthengine.google.com/b37617ed4107eb264ab31c5cb02542c1 
+
 Lake surface areas - https://code.earthengine.google.com/7177f5fa115db5904cc771e215223d29 
+
 Shoreline vegetation cover - https://code.earthengine.google.com/ab3e40b11d02c5f39520a989dd18d02a 
+
 Lake surface temperatures - https://code.earthengine.google.com/2f5a5cc88e799306ffa16493acfcc910 
+
 Rainfall - https://code.earthengine.google.com/da7e3cd6dc7086b61dc0003d331be264 
+
 Windspeed - https://code.earthengine.google.com/9cdb97c49f79ab3e6fd1cb23056cd52b 

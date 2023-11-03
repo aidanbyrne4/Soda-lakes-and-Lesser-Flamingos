@@ -7,9 +7,12 @@ Date last modified: 03/11/2023
 Data availability is described in the STAR methods section.
 
 ## Files and code
-1) R code used for determining the drivers of Lesser Flamingo abundance at East African soda lakes - see Flamingo_movements_drivers_mixed_effect_modelling.R
-2) R code used for segmented regression modelling of the timeseries of chlorophyll-a concentrations and lake surface areas for each of the 22 study lakes - see Changing_lake_conditions_piecewise_regression_modelling.R
-3) Google Earth Engine javascript code for data collection of the climate and remote sensing variables defined in the STAR methods section - see links to code below 
+1) R code used for determining the drivers of Lesser Flamingo abundance at East African soda lakes
+   - see Flamingo_movements_drivers_mixed_effect_modelling.R
+2) R code used for segmented regression modelling of the timeseries of chlorophyll-a concentrations and lake surface areas for each of the 22 study lakes
+    - see Changing_lake_conditions_piecewise_regression_modelling.R
+3) Google Earth Engine javascript code for data collection of the climate and remote sensing variables defined in the STAR methods section
+   - see links to code below 
 
 ## Google Earth Engine scripts for environmental data collection
 Chlorophyll-a concentrations, suitable and high-quality habitat areas - https://code.earthengine.google.com/27b359afa20692a32636beec513b3c16 

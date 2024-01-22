@@ -1,14 +1,14 @@
 # Soda-lakes-and-Lesser-Flamingos
 Corresponding author: Aidan Byrne - aidan.byrne@kcl.ac.uk
 
-Date last modified: 03/11/2023
+Date last modified: 22/01/2024
 
 ## Data availability 
 Data availability is described in the STAR methods section.
 
 ## Files and code
-1) R code used for determining the drivers of Lesser Flamingo abundance at East African soda lakes
-   - see Flamingo_movements_drivers_mixed_effect_modelling.R
+1) R code for negative binomial generalised linear mixed models used for determining the drivers of Lesser Flamingo abundance at East African soda lakes
+   - see Flamingo_movements_drivers_mixed_effect_modelling_NB.R
 2) R code used for segmented regression modelling of the timeseries of chlorophyll-a concentrations and lake surface areas for each of the 22 study lakes
     - see Changing_lake_conditions_piecewise_regression_modelling.R
 3) Google Earth Engine javascript code for data collection of the climate and remote sensing variables defined in the STAR methods section
